@@ -1,0 +1,6 @@
+*.uvguix*
+*.uvmpw*
+*.scvd
+*.scf
+debug/
+output/
